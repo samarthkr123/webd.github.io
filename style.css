@@ -437,4 +437,14 @@ footer.bill {
 	{
 		width: 70%;
 	}
+	
+	.total_bill {
+		width: 40%;
+	}
+
+	footer.bill
+	{
+		height: 85px;
+	}
 }
+
